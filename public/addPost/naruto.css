@@ -311,8 +311,9 @@ hr {
     touch-action: manipulation;
     width: 100%;
     will-change: transform;
-    width: 800px;
+    width: 200px;
     background-color: #17bd5c11;
+
 }
 
 .button-link:disabled {
